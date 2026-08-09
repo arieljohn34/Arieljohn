@@ -5,3 +5,5 @@
 <h4>Still learning As a Beginner in Python🐍</h4>
 <h4>Still Learning Basic Math➗ </h4>
 <h4>Discovering New Things in Computer Science 💻</h4>
+
+# <h3> Tech Stack </h3>
