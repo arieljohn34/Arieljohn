@@ -7,6 +7,8 @@
 <h4>Discovering New Things in Computer Science 💻</h4>
 
 # <h3> Tech Stack </h3>
-<img src="./mysql_logo1.jpg" width="60">
-<img src="./python_logo1.png" width="60">
-<img src="./csharp_logo1.png" width="60">
+<div>
+    <img src="./mysql_logo1.jpg" width="60">
+    <img src="./python_logo1.png" width="60">
+    <img src="./csharp_logo1.png" width="60">
+</div>
