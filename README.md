@@ -8,3 +8,4 @@
 
 # <h3> Tech Stack </h3>
 <img src="./mysql_logo1.jpg" width="60">
+<img src="./python_logo1.jpg" width="60">
