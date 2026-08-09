@@ -7,4 +7,4 @@
 <h4>Discovering New Things in Computer Science 💻</h4>
 
 # <h3> Tech Stack </h3>
-<img src="./arieljohn readme/ArielJohn/mysql_logo1.jpg" width="800" height="300">
+![MySql IMG] https://1000logos.net/mysql-logo/
